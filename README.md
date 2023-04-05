@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/maria-cb-alt">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maria-cb-alt&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maria-cb-alt&theme=nightowl_icons=true)"/>
+  
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maria-cb-alt&theme=algolia_icons=true)"/>
 
 </div>
 <div style="display: inline_block"><br>
